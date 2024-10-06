@@ -38,7 +38,7 @@ Feel free to explore, fork, or contribute! Your feedback is invaluable as I stri
 
 ### 🔗 Links
 
-- [Live Demo](https://aayushdubeyportfolio.netlify.app/)
+- [Visit Link](https://aayushdubeyportfolio.netlify.app/)
 - [GitHub](https://github.com/aayushdubey-codes)
 - [LinkedIn](https://www.linkedin.com/in/aayushdubey-codes)
 - [Twitter](https://x.com/tweets_aayush)
